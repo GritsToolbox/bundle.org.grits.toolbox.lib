@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="GRITS.ms.annotation-0.1-b574.jar"/>
+	<classpathentry exported="true" kind="lib" path="GRITS.ms.annotation-0.1-b577.jar" sourcepath="/org.grits.toolbox.ms.annotation"/>
+	<classpathentry exported="true" kind="lib" path="GRITS.file-0.1-b31.jar" sourcepath="/org.grits.toolbox.ms.file"/>
 	<classpathentry exported="true" kind="lib" path="GRITS.ms.om-0.1-b226.jar" sourcepath="/org.grits.toolbox.ms.om"/>
 	<classpathentry exported="true" kind="lib" path="GRITS.spectrafiltering-0.1-b1.jar"/>
 	<classpathentry exported="true" kind="lib" path="zip4j_1.3.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="GRITS.file-0.1-b27.jar" sourcepath="/org.grits.toolbox.ms.file"/>
 	<classpathentry exported="true" kind="lib" path="GRITS.merge-0.1-b95.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
